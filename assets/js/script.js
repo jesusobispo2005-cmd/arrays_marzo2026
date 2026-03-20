@@ -78,5 +78,5 @@ window.onload = function() {
     b = siguiente;
   }
 
-  document.getElementById("resultado").textContent = texto;
+  document.getElementById("resultado").textContent =texto ;
 };
